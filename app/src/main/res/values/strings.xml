@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">XXX VPN Proxy</string>
+
+    <string name="transfer_bytes">%.2f Bytes/s</string>
+    <string name="transfer_gibibytes">%.2f Gb/s</string>
+    <string name="transfer_kibibytes">%.2f KiB/s</string>
+    <string name="transfer_mibibytes">%.2f Mb/s</string>
+    <string name="transfer_tibibytes">%.2f Tib/s</string>
+    <string name="latest_handshake_ago">%s ago</string>
+
+    <string name="unit_b">%.2f B</string>
+    <string name="unit_gb">%.2f GB</string>
+    <string name="unit_kb">%.2f KB</string>
+    <string name="unit_mb">%.2f MB</string>
+    <string name="unit_tb">%.2f TB</string>
+
+    <string name="general_webview_url_restricted_message">Url is restricted!</string>
+    <string name="data_load_failed">Data loading failed</string>
+    <string name="data_load_failed_retry">You can try refreshing</string>
+    <string name="data_load_failed_refresh">Refresh</string>
+
+    <string name="facebook_app_id">247000885018937</string>
+    <string name="facebook_client_token">96b8592af648d2edda8d005b7259f958</string>
+
+</resources>
